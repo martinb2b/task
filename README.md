@@ -4,7 +4,7 @@
 
 ### Technologies
 
-### Server: PHP/OOP
+### Server: PHP
 
 ### Client: JS/Axios
 
