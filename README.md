@@ -25,7 +25,7 @@ after user authenticated he will redirected to the main page
 
 ##### main page
 
-will present the Countries from the following API: `https://restcountries.eu/`
+will present the Countries from the following API: `https://restcountries.com/`
 
 - All the requests will arrive from the PHP Backend that will execute the API calls.
 
