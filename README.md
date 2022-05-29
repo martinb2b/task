@@ -57,29 +57,54 @@ The project must be served on github with client and server folders with all the
 We value good practices and attention to detail. The results should look good, behave as expected, and the code should be easy to maintain and extend.
 
 You will be evaluated according to the following criteria:
+
 ##### Task comprehension:
+
 Technical scoping understanding.
+
 Ability to follow instructions.
+
 Fullfillment of specifications and requirements.
+
 ##### Frontend considerations:
+
 Responsiveness to different window sizes.
+
 Robustness when handling dynamic content. 
+
 Use of appropriate HTML tags and attributes.
+
 CSS transitions.
+
 ##### Backend considerations:
+
 Knowledge of WordPress.
+
 Use of appropriate custom field types.
+
 Handling of empty fields and invalid content.
+
 Admin UX and ease-of-use, i.e. should be easy to understand what each field does and the fields should be well-structured for editing.
+
 ##### Programming proficiency:
+
 Easy to understand code.
+
 Self-contained code.
+
 Easy to extend or modify code.
+
 Project structure.
+
 Naming conventions.
+
 Formatting.
+
 ##### Git considerations:
+
 Appropriateness of committed files, e.g. no debug files, no node_modules.
+
 Commit atomicity, i.e. each commit should have a single purpose.
+
 Commit message descriptiveness and formatting, i.e. it should be self-explanatory what each commit does.
 
